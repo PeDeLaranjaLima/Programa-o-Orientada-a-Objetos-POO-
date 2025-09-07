@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Apertadinho
+comment1.params=intervaloInf\ intervaloSup
+comment1.target=Apertadinho(int,\ int)
+comment2.params=palpite
+comment2.target=boolean\ verificarPalpite(int)
+numComments=3
